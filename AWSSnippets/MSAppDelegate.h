@@ -3,7 +3,7 @@
 //  AWSSnippets
 //
 //  Created by Bear Murphy on 5/10/12.
-//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//  Copyright (c) 2012 Maven Syndicate. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
